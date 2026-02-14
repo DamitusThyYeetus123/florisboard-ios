@@ -9,6 +9,15 @@
     "license": "apache-2.0"
   },
   "layouts": {
+    "characters": [
+      {
+        "id": "ios",
+        "label": "iOS Style character mod layout",
+        "authors": [ "damiuwu" ],
+        "direction": "ltr",
+        "modifier": "org.damiuwu.ios-layouts:ios"
+      }
+    ],
     "charactersMod": [
       {
         "id": "ios",

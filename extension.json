@@ -1,7 +1,7 @@
 {
   "$": "ime.extension.keyboard",
   "meta": {
-    "id": "org.damiuwu.ios-layouts",
+    "id": "dev.damiii.ios-layouts",
     "version": "0.1.0",
     "title": "iOS layouts",
     "description": "Layouts which mimic stock iOS keyboard layout.",

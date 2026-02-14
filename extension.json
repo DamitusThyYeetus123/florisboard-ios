@@ -1,0 +1,55 @@
+{
+  "$": "ime.extension.keyboard",
+  "meta": {
+    "id": "org.damiuwu.ios-layouts",
+    "version": "0.1.0",
+    "title": "iOS layouts",
+    "description": "Layouts which mimic stock iOS keyboard layout.",
+    "maintainers": [ "damiuwu <dam1928@proton.me>" ],
+    "license": "apache-2.0"
+  },
+  "layouts": {
+    "charactersMod": [
+      {
+        "id": "ios",
+        "label": "iOS Style character mod layout",
+        "authors": [ "damiuwu" ],
+        "direction": "ltr"
+      }
+    ],
+    "symbols": [
+      {
+        "id": "ios",
+        "label": "iOS",
+        "authors": [ "damiuwu" ],
+        "direction": "ltr",
+        "modifier": "org.damiuwu.ios-layouts:ios"
+      }
+    ],
+    "symbolsMod": [
+      {
+        "id": "ios",
+        "label": "iOS",
+        "authors": [ "damiuwu" ],
+        "direction": "ltr"
+      }
+    ],
+    "symbols2": [
+      {
+        "id": "ios",
+        "label": "iOS",
+        "authors": [ "damiuwu" ],
+        "direction": "ltr",
+        "modifier": "org.damiuwu.ios-layouts:ios"
+      }
+    ],
+    "symbols2Mod": [
+      {
+        "id": "ios",
+        "label": "iOS",
+        "authors": [ "damiuwu" ],
+        "direction": "ltr"
+      }
+    ]
+  }
+}
